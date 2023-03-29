@@ -1,0 +1,6 @@
+com\springbatchpoc\springbatchpoc\repository\CustomerRepository.class
+com\springbatchpoc\springbatchpoc\entity\Customer.class
+com\springbatchpoc\springbatchpoc\config\SpringBatchConfig.class
+com\springbatchpoc\springbatchpoc\controller\JobController.class
+com\springbatchpoc\springbatchpoc\config\CustomerProcessor.class
+com\springbatchpoc\springbatchpoc\SpringBatchPocApplication.class
